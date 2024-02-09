@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nexus-phase2/static/css/main.e3c9c637.css",
+    "main.js": "/nexus-phase2/static/js/main.b25f744d.js",
+    "static/js/592.19a4e582.chunk.js": "/nexus-phase2/static/js/592.19a4e582.chunk.js",
+    "index.html": "/nexus-phase2/index.html",
+    "main.e3c9c637.css.map": "/nexus-phase2/static/css/main.e3c9c637.css.map",
+    "main.b25f744d.js.map": "/nexus-phase2/static/js/main.b25f744d.js.map",
+    "592.19a4e582.chunk.js.map": "/nexus-phase2/static/js/592.19a4e582.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3c9c637.css",
+    "static/js/main.b25f744d.js"
+  ]
+}
